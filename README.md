@@ -10,7 +10,7 @@
 
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/JMEkZREiG4O8T9NQGViUtx)
-### FOR TERMUX USER
+### FOR TERMUX USER/UNTUK PENGGUNA TERMUX
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
@@ -28,17 +28,17 @@
 
 ---------
 
-### FOR WINDOWS/VPS/RDP USER
+### FOR WINDOWS/VPS/RDP USER (UNTUK PENGGUNA WINDOWS/VPS/RDP)
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads) <br>
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) <br>
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/botstylee/botstylee
-> cd botstylee
+> git clone https://github.com/Vall-Afk/myselfbot2
+> cd myselfbot2
 > npm install
 ```
-###### Run
+###### Run/Jalankan
 ```bash
 > node index.js
 ```
@@ -58,3 +58,5 @@
 
 
 [`bsbt`](https://bsbt-api-rest.herokuapp.com)
+
+[`Vall`](https://github.com/Vall-Afk)
